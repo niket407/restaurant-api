@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="245adbdc-5434-434b-be77-9b88a58f33a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/restaurant/exception/AppException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/restaurant/model/Customer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/restaurant/customer/contoller/CustomerController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/restaurant/dao/CustomerDAO.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/restaurant/util/DBUtils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-700.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-700.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-700.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-700.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-700.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-700.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-700.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-700.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/images/explorer_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/images/explorer_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/images/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/images/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/images/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/images/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/images/logo_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/images/logo_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/images/pet_store_api.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/images/pet_store_api.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/restaurant/app/restapp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/images/throbber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/images/throbber.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/images/wordnik_api.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/images/wordnik_api.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/restaurant/exception/AppException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/restaurant/model/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/restaurant/customer/contoller/CustomerController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/restaurant/dao/CustomerDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/restaurant/util/DBUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/backbone-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/backbone-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-700.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-700.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/fonts/droid-sans-v6-latin-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/fonts/droid-sans-v6-latin-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/handlebars-2.0.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/handlebars-2.0.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/highlight.7.3.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/highlight.7.3.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/jquery-1.8.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/jquery-1.8.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/jquery.ba-bbq.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/jquery.ba-bbq.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/jquery.slideto.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/jquery.slideto.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/jquery.wiggle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/jquery.wiggle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/marked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/marked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/o2c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/o2c.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.container" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.jsdt.ui.superType.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.validation.prefs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/restaurant-api/restaurant-api/pom.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/restaurant-api/restaurant-api/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/css/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/restaurant/app/restapp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/restaurant-api.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/css/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/swagger-oauth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/swagger-oauth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/swagger-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/swagger-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/swagger-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/swagger-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lang/translator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lang/translator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/css/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/css/typography.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lib/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lib/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/dist/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WebContent/swagger/lang/zh-cn.js" />
+    </list>
+    <ignored path="restaurant-api.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="restaurant-api" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1377" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="restaurant-api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JsTestDriver-test-runner" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="245adbdc-5434-434b-be77-9b88a58f33a9" name="Default" comment="" />
+      <created>1444537783130</created>
+      <option name="number" value="Default" />
+      <updated>1444537783130</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1377" height="735" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24943988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33001658" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
